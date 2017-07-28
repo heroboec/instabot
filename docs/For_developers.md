@@ -1,4 +1,4 @@
-﻿## Implemented [bot](https://github.com/ohld/instabot/blob/master/instabot/bot/bot.py) methods
+﻿## Documentation
 
 ### Bot Class
 
@@ -64,9 +64,16 @@ bot = Bot(
 
 In all files:
 
-*one item*
+*first line - one item*
 
-*one line*
+*second line - one item*
+
+Example. File comments.txt
+``` python
+Nice!
+Great!
+Good pic!
+```
 
 This is in regards to comments or users in a file.
 
