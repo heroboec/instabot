@@ -39,20 +39,3 @@ pip install -U instabot
 ## Developers
 
 Developers better read the [documentation](https://github.com/instagrambot/instabot/blob/master/docs/en/For_developers.md)
-
-## Highly recommended
-*Make sure* you check out the example scripts [here](https://github.com/ohld/instabot/tree/master/examples). Chances are, your desired functions are *already there and ready to use*. Examples include *unfollowing non-followers*, *following competitor's followings and followers*, *liking posts of a specific hashtag*, and *more*...
-
-If you have any ideas, please report them in the [Issues section](https://github.com/ohld/instabot/issues) or in our [Telegram chat](https://t.me/joinchat/AAAAAEHxHAtKhKo4X4r7xg).
-**Your __contribution__ and support through __stars and reporting issues__ will be highly appreciated. After all, this project is dependent on your testing and support. :)**
-
-## Docker
-As long as docker is running on your machine you can build an instabot docker image like this
-```
-docker build -t instabot .
-```
-
-Then run your image with an example or your custom script:
-```
-docker run --name instabot -p 80:80 -i -t instabot python examples/like_example.py
-```
