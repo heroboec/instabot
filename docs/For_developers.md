@@ -39,7 +39,7 @@ bot = Bot(
 | max_likes_per_day| How many likes the bot will perform per day| 1000|
 | max_unlikes_per_day | How many medias the bot will unlike in a day| 1000|
 | max_follows_per_day| Max number of follow per day| 350|
-| max_unfollows_per_day| Max number of follow per day| 350|
+| max_unfollows_per_day| Max number of unfollow per day| 350|
 | max_comments_per_day| Max number of comments per day| 100|
 | max_likes_to_like| If the media has more likes then this value - it will be ignored and not be liked | 200|
 | filter_users | Filter users if True | True|
