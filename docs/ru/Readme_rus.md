@@ -8,15 +8,15 @@ Instabot - это модуль для языка Python, в котором не 
 
 ## Задайте вопрос
 
-<li> Для сообщения об ошибках используйте эту [страницу](https://github.com/instagrambot/instabot/issues)
-<li> Если вы имеете вопросы или же хотите поделиться своим опытом использования Instabot, пожалуйста, пишите в наш чат [Telegram](https://t.me/instabotproject)
-<li> [Здесь](https://github.com/damirqa/instabot/blob/master/docs/ru/FAQ_rus.md) вы можете найти ответы на наиболее популярные вопросы
+* Для сообщения об ошибках используйте эту [страницу](https://github.com/instagrambot/instabot/issues)
+* Если вы имеете вопросы или же хотите поделиться своим опытом использования Instabot, пожалуйста, пишите в наш чат [Telegram](https://t.me/instabotproject)
+* Вы можете найти ответы на наиболее популярные вопросы [здесь](https://github.com/damirqa/instabot/blob/master/docs/ru/FAQ_rus.md)
 
 ## Установка
 
 Вы можете прочитать инструкцию по установке Instabot, перейдя по ссылке ниже
-<li> [Установка на Windows](https://github.com/damirqa/instabot/blob/master/docs/ru/Installation_on_Windows_rus.md)
-<li> [Установка на Unix-системах](https://github.com/damirqa/instabot/blob/master/docs/ru/Installation_on_Unix_rus.md)
+* Установка на [Windows](https://github.com/damirqa/instabot/blob/master/docs/ru/Installation_on_Windows_rus.md)
+* Установка на [Unix](https://github.com/damirqa/instabot/blob/master/docs/ru/Installation_on_Unix_rus.md)
 
 ## Как пользоваться
 
