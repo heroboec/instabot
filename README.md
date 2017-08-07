@@ -10,7 +10,7 @@ ___
 
 As you may know, Instagram closed its API in summer 2016. This Python module can do the same things without any effort.
 
-Other languages: [🇷🇺](/docs/ru/Readme_rus.md)
+Other languages: [🇷🇺](/docs/ru/Readme.md)
 
 ## What is it?
 
