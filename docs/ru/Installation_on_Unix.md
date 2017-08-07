@@ -6,7 +6,7 @@
 
 ## Пошаговая инструкция
 
-* Откройте терминал
+* Откройте терминал.
 ```
 pip install -U instabot
 git clone https://github.com/instagrambot/instabot
