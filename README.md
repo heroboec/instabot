@@ -2,7 +2,7 @@
 
 Cool Instagram scripts for promotion and API wrapper. Written in Python.
 
-![Instabot is better than other open-source bots!](https://github.com/instagrambot/instabot/blob/master/docs/img/tag%20instabot.png "Instabot is better than other open-source bots!")
+![Instabot is better than other open-source bots!](/docs/img/tag%20instabot.png "Instabot is better than other open-source bots!")
 
 ___
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/joinchat/AAAAAEHxHAtKhKo4X4r7xg)
@@ -18,7 +18,7 @@ Instabot is a module for the Python language, which not only implements the wrap
 
 ## Ask a Question
 
-* For error messages, use this [page](/issues).
+* For error messages, use this [page](https://github.com/instagrambot/instabot/issues).
 * If you have questions or would like to share your experience using Instabot, please write to our [Telegram](https://t.me/instabotproject).
 
 ## Installation
