@@ -32,4 +32,4 @@ pip install -U instabot
 
 ## Разработчикам
 
-Разработчикам лучше почитать [документацию](/docs/For_developers.md).
+Разработчикам лучше почитать [документацию](/docs/en/For_developers.md).
