@@ -10,7 +10,7 @@ ___
 
 As you may know, Instagram closed its API in summer 2016. This Python module can do the same things without any effort.
 
-README.md in [Russian](https://github.com/damirqa/instabot/blob/master/docs/ru/Readme_rus.md)
+Other languages: 🇷🇺(https://github.com/damirqa/instabot/blob/master/docs/ru/Readme_rus.md)
 
 ## What is it?
 
@@ -19,17 +19,17 @@ Instabot is a module for the Python language, which not only implements the wrap
 ## Ask a Question
 
 * For error messages, use this [page](https://github.com/instagrambot/instabot/issues)
-* If you have questions or would like to share your experience using Instabot, please write to our [Telegram](https://t.me/instabotproject)
+* If you have questions or would like to share your experience using Instabot, please write to our [Telegram](https://t.me/instabotproject).
 
 ## Installation
 
-You can read the instructions for installing Instabot, following the link below
-* Installing on [Windows](https://github.com/damirqa/instabot/blob/master/docs/en/Installation_on_Windows.md)
+You can read the instructions for installing Instabot, following the link below.
+* Installing on [Windows](blob/master/docs/en/Installation_on_Windows.md)
 * Installing on [Unix](https://github.com/damirqa/instabot/blob/master/docs/en/Installation_on_Unix.md)
 
 ## How to use
 
-Read the instructions for use [here](https://github.com/damirqa/instabot/blob/master/docs/en/How_to_use.md)
+Read the instructions for use [here](https://github.com/damirqa/instabot/blob/master/docs/en/How_to_use.md).
 
 ## Update
 
