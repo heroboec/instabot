@@ -2,7 +2,7 @@
 
 ### Как установить бота?
 
-Установка зависит от Вашей операционной системы. [Установка для Windows](https://github.com/instagrambot/instabot/blob/master/docs/installation/Windows_installation_rus.md). [Установка для Unix](https://github.com/instagrambot/instabot/blob/master/docs/installation/Unix_installation_rus.md) (Linux, macOS)
+Установка зависит от Вашей операционной системы. [Установка для Windows](https://github.com/instagrambot/instabot/blob/master/docs/installation/Windows_installation_rus.md). [Установка для Unix](https://github.com/instagrambot/instabot/blob/master/docs/installation/Unix_installation_rus.md) (Linux, macOS).
 
 Вся работа с ботом, как и установка, происходит через командную строку (terminal / CMD). Не стоит ее бояться - в ней нет ничего сложного.
 
@@ -54,7 +54,7 @@ Instabot имеет лимиты как на количество подписо
 
 ### Я хочу что бы бот отписался от акаунтов, которые не ответили взаимной подпиской.
 
-Для Вашей задачи подойдет уже написанный скрипт, который лежит в папке examples: unfollow_non_followes.py. Просто перейдите папку с этим скриптом на вашем компьютере и выполните в терминале
+Для Вашей задачи подойдет уже написанный скрипт, который лежит в папке examples: unfollow_non_followes.py. Просто перейдите папку с этим скриптом на вашем компьютере и выполните в терминале.
 ``` python
 python unfollow_non_followers.py
 ```
