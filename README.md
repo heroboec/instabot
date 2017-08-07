@@ -10,26 +10,26 @@ ___
 
 As you may know, Instagram closed its API in summer 2016. This Python module can do the same things without any effort.
 
-Other languages: 🇷🇺(https://github.com/damirqa/instabot/blob/master/docs/ru/Readme_rus.md)
+Other languages: [🇷🇺](/docs/ru/Readme_rus.md)
 
 ## What is it?
 
-Instabot is a module for the Python language, which not only implements the wrapper over the Instagram API, but also various useful functions, such as "subscribe to the list of people", "like photos by hashtags", "unsubscribe from non-followers" and so on. Instabot is smart enough: [read](https://github.com/damirqa/instabot/blob/master/docs/en/Filtration.md), for example, how it filters people on which it is going to subscribe.
+Instabot is a module for the Python language, which not only implements the wrapper over the Instagram API, but also various useful functions, such as "subscribe to the list of people", "like photos by hashtags", "unsubscribe from non-followers" and so on. Instabot is smart enough: [read](/docs/en/Filtration.md), for example, how it filters people on which it is going to subscribe.
 
 ## Ask a Question
 
-* For error messages, use this [page](https://github.com/instagrambot/instabot/issues).
+* For error messages, use this [page](/issues).
 * If you have questions or would like to share your experience using Instabot, please write to our [Telegram](https://t.me/instabotproject).
 
 ## Installation
 
 You can read the instructions for installing Instabot, following the link below.
 * Installing on [Windows](/docs/en/Installation_on_Windows.md)
-* Installing on [Unix](https://github.com/damirqa/instabot/blob/master/docs/en/Installation_on_Unix.md)
+* Installing on [Unix](/docs/en/Installation_on_Unix.md)
 
 ## How to use
 
-Read the instructions for use [here](https://github.com/damirqa/instabot/blob/master/docs/en/How_to_use.md).
+Read the instructions for use [here](/docs/en/How_to_use.md).
 
 ## Update
 
@@ -41,4 +41,4 @@ pip install -U instabot
 
 ## Developers
 
-Developers better read the [documentation](https://github.com/damirqa/instabot/blob/master/docs/en/For_developers.md).
+Developers better read the [documentation](/docs/en/For_developers.md).
