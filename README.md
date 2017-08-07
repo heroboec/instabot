@@ -25,7 +25,7 @@ Instabot is a module for the Python language, which not only implements the wrap
 
 You can read the instructions for installing Instabot, following the link below
 * Installing on [Windows](https://github.com/damirqa/instabot/blob/master/docs/en/Installation_on_Windows.md)
-* Installing on [Unix]https://github.com/damirqa/instabot/blob/master/docs/en/Installation_on_Unix.md)
+* Installing on [Unix](https://github.com/damirqa/instabot/blob/master/docs/en/Installation_on_Unix.md)
 
 ## How to use
 
