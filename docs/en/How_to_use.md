@@ -1,4 +1,4 @@
-# Инструкция по применению
+# Instructions for use
 
 **Important! Read the instructions from start to finish, and then act! Good luck!**
 
