@@ -8,19 +8,19 @@ Instabot - это модуль для языка Python, в котором не 
 
 ## Задайте вопрос
 
-* Для сообщения об ошибках используйте эту [страницу](https://github.com/instagrambot/instabot/issues)
-* Если вы имеете вопросы или же хотите поделиться своим опытом использования Instabot, пожалуйста, пишите в наш чат [Telegram](https://t.me/instabotproject)
-* Вы можете найти ответы на наиболее популярные вопросы [здесь](https://github.com/damirqa/instabot/blob/master/docs/ru/FAQ_rus.md)
+* Для сообщения об ошибках используйте эту [страницу](https://github.com/instagrambot/instabot/issues).
+* Если вы имеете вопросы или же хотите поделиться своим опытом использования Instabot, пожалуйста, пишите в наш чат [Telegram](https://t.me/instabotproject).
+* Вы можете найти ответы на наиболее популярные вопросы [здесь](/docs/ru/FAQ.md).
 
 ## Установка
 
-Вы можете прочитать инструкцию по установке Instabot, перейдя по ссылке ниже
-* Установка на [Windows](https://github.com/damirqa/instabot/blob/master/docs/ru/Installation_on_Windows_rus.md)
-* Установка на [Unix](https://github.com/damirqa/instabot/blob/master/docs/ru/Installation_on_Unix_rus.md)
+Вы можете прочитать инструкцию по установке Instabot, перейдя по ссылке ниже.
+* Установка на [Windows](/docs/ru/Installation_on_Windows.md).
+* Установка на [Unix](/docs/ru/Installation_on_Unix.md).
 
 ## Как пользоваться
 
-Прочитать инструкцию по применению можно [здесь](https://github.com/damirqa/instabot/blob/master/docs/ru/How_to_use_rus.md)
+Прочитать инструкцию по применению можно [здесь](/docs/ru/How_to_use.md).
 
 ## Обновление
 
@@ -32,4 +32,4 @@ pip install -U instabot
 
 ## Разработчикам
 
-Разработчикам лучше почитать [документацию](https://github.com/damirqa/instabot/blob/master/docs/For_developers.md)
+Разработчикам лучше почитать [документацию](/docs/For_developers.md).
