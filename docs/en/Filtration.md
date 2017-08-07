@@ -4,7 +4,7 @@ It's no secret that Instabot, before subscribing to people, filters them so as n
 
 ## Options
 
-To begin with, it is worth pointing out the conditions that you are free to change. Below I will give those parameters of the bot constructor, which are related to filtering
+To begin with, it is worth pointing out the conditions that you are free to change. Below I will give those parameters of the bot constructor, which are related to filtering.
 
 ``` python
 bot = Bot(max_likes_to_like=100,
