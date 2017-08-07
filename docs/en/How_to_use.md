@@ -4,29 +4,29 @@
 
 ## How to work?
 
-You will need a downloaded project. In the ***instabot/examples/*** folder there are scripts for work
+You will need a downloaded project. In the ***instabot/examples/*** folder there are scripts for work.
 
 ## How do I run the script?
 
-Open the command line, use ***cd*** to go to the project directory, namely ***instabot/examples***. Type
+Open the command line, use ***cd*** to go to the project directory, namely ***instabot/examples***. Type.
 
 ``` python
 python name.py param
 ```
 
-Where ***name*** is the name of the script, ***param*** is the required parameter for running the script. Not all scripts need a parameter
+Where ***name*** is the name of the script, ***param*** is the required parameter for running the script. Not all scripts need a parameter.
 
 ## How do I know if I need an input parameter for a script?
 
-Run the script by typing
+Run the script by typing.
 
 ``` python
 python name.py
 ```
 
 If there are no necessary parameters, the script will stop and display an error.
-Example
-Run the script
+Example.
+Run the script.
 
 ``` python
 python like_hashtags.py. 
@@ -58,7 +58,7 @@ Also there is a script that will work around the clock, BUT this script will act
 
 ## How to configure the script correctly
 
-To ensure that your account has not been banned, you need to configure the script Example. Suppose we need to keep photos on the hashtag every minute. First of all, time in seconds. Open ***like_hashtags.py*** with a text editor. Find such lines (approximately so they should look)
+To ensure that your account has not been banned, you need to configure the script Example. Suppose we need to keep photos on the hashtag every minute. First of all, time in seconds. Open ***like_hashtags.py*** with a text editor. Find such lines (approximately so they should look).
 
 ``` python
 bot = Bot()
@@ -66,13 +66,13 @@ bot.login(username=args.u, password=args.p,
           proxy=args.proxy)
 ```
 
-Next in line
+Next in line.
 
 ``` python
 bot = Bot()
 ```
 
-We need to write a parameter in parentheses. This parameter is ***like_delay***. This parameter needs to be set to 60, since we need every minute the bot to be happy with the photo on the hashtag. In the end, it will look like this
+We need to write a parameter in parentheses. This parameter is ***like_delay***. This parameter needs to be set to 60, since we need every minute the bot to be happy with the photo on the hashtag. In the end, it will look like this.
 
 ``` python
 bot = Bot(like_delay=60)
