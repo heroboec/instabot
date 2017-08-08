@@ -1,12 +1,12 @@
 # How to install and run the script on Unix? (Linux, macOS)
-* Open terminal and run
+* Open terminal and run.
 ```
 pip install -U instabot
 git clone https://github.com/instagrambot/instabot
 cd instabot/examples
 ```
 
-* And then you can run any example like this
+* And then you can run any example like this.
 ```
 python multi_script_CLI.py
 ```
